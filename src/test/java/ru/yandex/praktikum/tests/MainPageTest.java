@@ -4,7 +4,7 @@ import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
-import pageobjects.MainPage;
+import ru.yandex.praktikum.pageobgect.MainPage;
 import org.junit.After;
 
 import static org.junit.Assert.assertEquals;
