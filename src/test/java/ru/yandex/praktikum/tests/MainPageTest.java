@@ -13,7 +13,7 @@ import static org.junit.Assert.assertEquals;
 public class MainPageTest {
     String accordeonMessage;
     int messageNumber;
-    public MainPageTests (int messageNumber, String accordeonMessage)
+    public MainPageTest (int messageNumber, String accordeonMessage)
     {
         this.messageNumber = messageNumber;
         this.accordeonMessage = accordeonMessage;
